@@ -9,4 +9,9 @@
 
 <h3>   </h3>
 
-![Instagram](https://img.shields.io/badge/barnamenevisiinsta-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Telegram](https://img.shields.io/badge/barnamenevisichannel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![Twitter](https://img.shields.io/badge/barnamenevisitw-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) <p align="left"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=barnamenevisi)
+[![Instagram](https://img.shields.io/badge/barnamenevisiinsta-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/barnamenevisiinsta/)
+[![Telegram](https://img.shields.io/badge/barnamenevisichannel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/barnamenevisichannel/)
+[![Twitter](https://img.shields.io/badge/barnamenevisitw-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/barnamenevisitw/)
+[![Gmail](https://img.shields.io/badge/ertebatbabarnamenevisi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ertebatbabarnamenevisi@gmail.com)
+[![Visits Badge](https://badges.pufler.dev/visits/barnamenevisi/barnamenevisi?style=for-the-badge&logo=appveyor)](https://www.instagram.com/barnamenevisiinsta/)
+ 
